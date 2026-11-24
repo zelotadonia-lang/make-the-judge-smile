@@ -1,19 +1,19 @@
 #!/usr/bin/env python3
 """Write one line about a small good thing that happened today.
 
-Entry for make.fun "Make the Judge Smile", round 2 revision: a single
+Entry for make.fun "Make the Judge Smile", round 3 revision: a single
 line, at most 200 characters, written to /output/entry.txt.
 Deterministic: the same bytes on every run, no input, no network,
-no dependencies. Round 2 is a new concept, not a tweak of round 1:
-a stray cat that never lets anyone near her chose to sleep on my
-shoe for ten minutes, then left asking for nothing.
+no dependencies. Round 3 is a new concept, not a tweak of round 2:
+a chalk sun a kid drew on the pavement, and this morning a real
+one finally rose above it.
 """
 
 import os
 
 ENTRY = (
-    "The stray cat that never lets anyone near her slept on my shoe "
-    "for ten minutes and left without asking for anything."
+    "A kid had drawn a sun on the pavement in chalk and this morning "
+    "it finally had a real one above it."
 )
 
 
